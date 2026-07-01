@@ -2,11 +2,23 @@
 
 ## Olá! Sou o Kaike 👋
 
-Sou **Analista de Sistemas** na [Pedroso Automação](https://pedrosoautomacao.com.br), onde trabalho com PostgreSQL em produção, sistemas ERP, NF-e e infraestrutura Linux.
+Sou **Analista de Sistemas** na [Pedroso Automação](https://pedrosoautomacao.com.br), onde trabalho com PostgreSQL em produção, sistemas ERP, NF-e e infraestrutura Linux no dia a dia.
 
 Nas horas vagas sou **desenvolvedor Full Stack** — crio projetos do zero sozinho, do banco de dados ao deploy. Gosto de resolver problemas reais com código limpo e sistemas que funcionam de verdade.
 
 Estou no 8º semestre de **Sistemas de Informação** na UNESPAR (conclusão 2026), em União da Vitória, PR.
+
+---
+
+## Sobre mim 🧠
+
+Sou apaixonado por **PostgreSQL** — adoro mergulhar fundo em otimização de queries, criação de triggers, procedures, CTEs e modelagem relacional. Tem algo muito satisfatório em ver uma consulta que levava minutos passar a rodar em segundos depois de um índice bem colocado ou uma reestruturação de lógica.
+
+Gosto muito também da parte de **análise de requisitos** — aquela conversa com o cliente para entender o problema de verdade, mapear os fluxos, identificar o que ele precisa (não só o que ele pede) e traduzir isso em algo técnico que resolva de forma assertiva. Essa ponte entre o negócio e o código é onde eu me sinto em casa.
+
+No desenvolvimento, curto trabalhar em cima de **desafios reais de produção** — desde estruturar backup e replicação de banco, até construir uma arquitetura offline-first num app mobile ou criar um CRM do zero que aumenta conversão de leads. Methodologias ágeis, Scrum, Kanban e Jira fazem parte da minha rotina.
+
+Fora da tela, falo polonês fluente (herança da família) e inglês intermediário — o suficiente para consumir toda a documentação técnica sem depender de tradução. 🇧🇷🇵🇱
 
 ---
 
@@ -39,10 +51,22 @@ Estou no 8º semestre de **Sistemas de Informação** na UNESPAR (conclusão 202
 
 ## 🚀 Projetos
 
+### 🏠 Imobiliária Porto Iguaçu — [imobiliariaportoiguacu.com.br](https://www.imobiliariaportoiguacu.com.br/)
+
+> Um dos projetos que mais me orgulho. Site completo para imobiliária com design moderno, responsivo e totalmente focado em conversão de leads.
+
+Desenvolvi do zero uma plataforma integrada com **site público** para captação de clientes, **painel administrativo** para gestão de imóveis e um **módulo de analytics** para acompanhar métricas de acesso e interesse — tudo em Next.js + TypeScript, com deploy em produção e Cloudflare na frente.
+
+[![Ver site](https://img.shields.io/badge/🌐%20Ver%20site%20em%20produção-imobiliariaportoiguacu.com.br-6366f1?style=for-the-badge)](https://www.imobiliariaportoiguacu.com.br/)
+[![Repositório](https://img.shields.io/badge/GitHub-Imobiliaria-181717?style=for-the-badge&logo=github)](https://github.com/KaikeSouza1/Imobiliaria)
+
+---
+
+### 📋 Outros projetos
+
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
 | [**giroapp**](https://github.com/KaikeSouza1/giroapp) | App mobile para trilhas — GPS em tempo real, offline-first e sincronização automática | React Native · TypeScript |
-| [**Imobiliaria**](https://github.com/KaikeSouza1/Imobiliaria) | CRM integrado com site responsivo e painel administrativo para imobiliária | Next.js · TypeScript |
 | [**postgresql-triggers-examples**](https://github.com/KaikeSouza1/postgresql-triggers-examples) | Triggers PL/pgSQL de produção — controle de estoque, NF-e e sync via dblink | PostgreSQL · PL/pgSQL |
 | [**site-claudinei**](https://github.com/KaikeSouza1/site-claudinei) | Site institucional moderno com foco em performance e SEO | Next.js · TypeScript |
 
