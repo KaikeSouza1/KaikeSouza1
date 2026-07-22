@@ -6,7 +6,7 @@ Sou **Analista de Sistemas** na [Pedroso Automação](https://pedrosoautomacao.c
 
 Nas horas vagas sou **desenvolvedor Full Stack** — crio projetos do zero sozinho, do banco de dados ao deploy. Gosto de resolver problemas reais com código limpo e sistemas que funcionam de verdade.
 
-Estou no 8º semestre de **Sistemas de Informação** na UNESPAR (conclusão 2026), em União da Vitória, PR.
+Estou no 9º semestre de **Sistemas de Informação** na UNESPAR (conclusão 2026), em União da Vitória, PR.
 
 ---
 
